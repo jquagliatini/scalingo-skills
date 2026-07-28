@@ -1,0 +1,12 @@
+{
+  "name": "scalingo-docs",
+  "version": "1.0.0",
+  "description": "Answer Scalingo questions grounded in the official documentation. Bundles a script that clones and cleans the docs into a local corpus, then answers from it with citable doc.scalingo.com URLs.",
+  "author": {
+    "name": "beta.gouv.fr"
+  },
+  "homepage": "https://github.com/jquagliatini/scalingo-skills",
+  "repository": "https://github.com/jquagliatini/scalingo-skills",
+  "license": "MIT",
+  "keywords": ["scalingo", "paas", "documentation", "deployment", "databases", "cli"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "scalingo-skills",
+  "owner": {
+    "name": "beta.gouv.fr",
+    "url": "https://github.com/jquagliatini/scalingo-skills"
+  },
+  "metadata": {
+    "description": "Agent Skills for working with Scalingo, grounded in the official documentation."
+  },
+  "plugins": [
+    {
+      "name": "scalingo-docs",
+      "source": "./plugins/scalingo-docs",
+      "description": "Answer Scalingo questions from a local, cleaned copy of the official documentation instead of from memory.",
+      "version": "1.0.0",
+      "category": "documentation",
+      "keywords": ["scalingo", "paas", "documentation", "deployment", "databases"]
+    }
+  ]
+}

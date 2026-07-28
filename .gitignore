@@ -1,0 +1,7 @@
+# Local docs cache (only relevant if SCALINGO_DOCS_HOME points inside the repo)
+/repo/
+/corpus/
+.last_refresh
+__pycache__/
+*.pyc
+.DS_Store
